@@ -1,4 +1,5 @@
-models/
+.env
 env/
 __pycache__/
 vectorstore/
+models/
