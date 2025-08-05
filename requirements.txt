@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+transformers
+peft
+faiss-cpu
+pypdf
+streamlit
+langchain-community
+sentence-transformers
