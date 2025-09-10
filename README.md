@@ -1,6 +1,6 @@
 # DocuWise AI
 
-SmartLegalGPT is an AI-powered legal document assistant designed to help users extract insights and answer questions from legal PDFs. It utilizes Retrieval-Augmented Generation (RAG) with a locally hosted fine-tuned language model to provide accurate and context-aware answers without relying on external APIs.
+DocuWise AI is an AI-powered legal document assistant designed to help users extract insights and answer questions from any PDFs. It utilizes Retrieval-Augmented Generation (RAG) with a locally hosted fine-tuned language model to provide accurate and context-aware answers without relying on external APIs.
 
 ## Features
 
