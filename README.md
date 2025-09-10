@@ -14,7 +14,7 @@ DocuWise AI is an AI-powered legal document assistant designed to help users ext
 
 ## Technology Stack
 
-- **Language Model**: Flan-T5 Base (locally hosted)
+- **Language Model**: deepset/roberta-base-squad2 (locally hosted)
 - **Embeddings**: HuggingFace sentence transformers
 - **Vector Database**: FAISS
 - **Document Loading**: PDFPlumber via LangChain
