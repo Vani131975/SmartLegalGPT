@@ -33,7 +33,7 @@ DocuWise AI is an AI-powered legal document assistant designed to help users ext
 
 - All documents are embedded and stored locally using FAISS
 - Supports multiple documents via isolated vector stores per file
-- Uses `flan-t5-base` for offline reasoning, but can be swapped with any other Seq2Seq model
+- Uses `deepset/roberta-base-squad2` for offline reasoning, but can be swapped with any other Seq2Seq model
 - No third-party APIs or internet access required after setup
 
 ## Acknowledgements
