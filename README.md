@@ -5,7 +5,7 @@ SmartLegalGPT is an AI-powered legal document assistant designed to help users e
 ## Features
 
 - Multi-document support with individual vector stores
-- Context-aware legal question answering using RAG pipeline
+- Context-aware question answering using RAG pipeline
 - Local embedding and retrieval using FAISS
 - Offline inference with a custom fine-tuned Flan-T5 model
 - Streamlit-based UI for easy interaction
@@ -22,7 +22,7 @@ SmartLegalGPT is an AI-powered legal document assistant designed to help users e
 
 ## Example Workflow
 
-1. Upload a legal PDF (e.g., contract or policy)
+1. Upload any PDF
 2. Select the document from the dropdown
 3. Ask a question like:
    - What does Article 5 say about termination?
