@@ -7,7 +7,6 @@ DocuWise AI is an AI-powered legal document assistant designed to help users ext
 - Multi-document support with individual vector stores
 - Context-aware question answering using RAG pipeline
 - Local embedding and retrieval using FAISS
-- Offline inference with a custom fine-tuned Flan-T5 model
 - Streamlit-based UI for easy interaction
 - Document source displayed with each answer
 - Full reset option to clear all uploaded documents
